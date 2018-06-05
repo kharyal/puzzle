@@ -1,3 +1,3 @@
-# puzzle
-a web puzzle
-see it, see in it, see through it
+# A web puzzle
+
+> See the image, see in it and see through this.

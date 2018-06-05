@@ -1,3 +1,3 @@
-# puzzle
-a web puzzle
-see it, see in it, see through it
+# An attempt at CTF
+
+> See the image, see in it and see through this.
